@@ -1,5 +1,10 @@
 # Test Automation Project
 
+Technology Stack -
+Framework: Playwright 
+Language: TypeScript 
+Reporting: Allure 
+
 ## Prerequisites
 - Node.js
 - npm
