@@ -6,6 +6,7 @@
 
 ## Installation
 npm install
+Java
 
 ## Run Tests
 npx playwright test
